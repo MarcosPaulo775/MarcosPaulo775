@@ -3,7 +3,7 @@
 ---
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcosPaulo775)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-paulo-costa-mendes-460585190)  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosp.desenvolvimento@gmail.com) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospaulo775&count_private=true&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospaulo775&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulo775&layout=compact&theme=dracula)
 
